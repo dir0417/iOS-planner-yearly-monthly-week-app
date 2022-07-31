@@ -1,1 +1,1 @@
-# iOS-planner-yearly-monthly-weekly
+# iOS-planner-yearly-monthly-weekly-app
